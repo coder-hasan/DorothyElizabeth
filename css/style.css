@@ -263,9 +263,7 @@ a:visited{text-decoration:none}
 	-webkit-transform:translateY(-50%);
 	transform:translateY(-50%);
 }
-.banner img{
-	width: 100%;
-}
+.banner img{width: 100%}
 .banner p{
 	color:#fff;
 	margin:0;
@@ -296,9 +294,7 @@ a:visited{text-decoration:none}
 	width:100%;
 	display:block;
 }
-.author > .col-md-6{
-	position: relative;
-}
+.author > .col-md-6{position: relative}
 .author_txt{
 	padding-left:30px;
 	max-width:532px;
@@ -365,9 +361,7 @@ a:visited{text-decoration:none}
 	color:#000;
 }
 
-.padding_lr35 [class*='col-']{
-	padding:35px 35px 0;
-}
+.padding_lr35 [class*='col-']{padding:35px 35px 0}
 .fiction_img{
 	width: 100%;
 	height: auto;
@@ -438,15 +432,9 @@ a:visited{text-decoration:none}
 	position:relative;
 	padding:30px 0;
 }
-.slider .owl-carousel .owl-item {
-	margin-top: 10px;
-}
-.testimoni .owl-carousel .owl-item .slider_item{
-	padding:0px 5px;
-}
-.testimoni .owl-item.active .slider_item{
-	padding:0px;
-}
+.slider .owl-carousel .owl-item {margin-top: 10px}
+.testimoni .owl-carousel .owl-item .slider_item{padding:0px 5px}
+.testimoni .owl-item.active .slider_item{padding:0px}
 .single_slider_item{
 	padding:20px;
 	text-align:center;
